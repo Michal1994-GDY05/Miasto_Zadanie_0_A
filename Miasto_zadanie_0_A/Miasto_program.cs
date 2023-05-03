@@ -1,4 +1,6 @@
-﻿internal class Miasto_program
+﻿using Miasto_Zadanie_0_A;
+
+internal class Miasto_program
 {
     static void Main(string[] args)
     {
